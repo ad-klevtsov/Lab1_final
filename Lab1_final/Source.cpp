@@ -67,7 +67,7 @@ int main()
 		{
 			system("cls");
 			std::cout << "The result:\n" << std::endl;
-			double result;
+			double result = 0;
 			try
 			{
 				result = first * second;
