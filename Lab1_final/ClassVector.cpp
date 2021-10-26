@@ -133,7 +133,7 @@ vector vector::operator/= (const double x)
 		v[i] /= x;
 	}
 	return *this;
-}
+} 
 
 vector vector::operator/ (const double x)
 {
